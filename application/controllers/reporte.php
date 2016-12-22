@@ -78,4 +78,3 @@ class Reporte extends CI_Controller {
     $this->pdf->Output("Lista de alumnos.pdf", 'I');
   }
 }
-/* **************************************** *\
